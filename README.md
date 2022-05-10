@@ -1,4 +1,4 @@
-This is tutorial
+just tutorial
 
 <!---
 SangJinMoon/SangJinMoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
